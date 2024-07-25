@@ -1,4 +1,8 @@
 Practica Bootstrap
 ### BOOTSTRAP GALLERY with GRID
-- Galeria Responsive
-- Uso Componente Grid de Bootstrap
+- Uso Componente Grid de Bootstrap.
+- Definicion de Row y Col
+- Definicion de ancho de columnas.
+- Uso de Margin y Padding.
+- uso de color en Background y Texto.
+
