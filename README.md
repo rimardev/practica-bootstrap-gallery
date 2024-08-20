@@ -6,3 +6,4 @@ Practica Bootstrap
 - Uso de Margin y Padding.
 - uso de color en Background y Texto.
 
+  ![screenshot](https://github.com/rimardev/practica-bootstrap-gallery/blob/main/assets/img/screenshot.jpg)
